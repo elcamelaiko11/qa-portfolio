@@ -1,5 +1,28 @@
 # Sample Test Plan – Web Application
 
+## Test Objective
+The objective of this testing is to validate the core functionalities of the web application including authentication, user registration, dashboard usability and profile management.
+
+## Test Scope
+IN SCOPE:
+- Login functionality
+- Registration process
+- Dashboard features
+- Profile update
+
+OUT OF SCOPE:
+- Payment integration
+- Third-party API services
+- Performance testing
+
+## Test Approach
+Manual functional testing will be performed based on defined test scenarios and user workflows.
+
+## Test Environment
+Browser: Google Chrome  
+OS: Windows 10  
+Test URL: Sample Test Environment
+
 ## Scope
 Testing login, registration, dashboard, and profile features.
 
