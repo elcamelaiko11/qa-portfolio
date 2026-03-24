@@ -1,7 +1,8 @@
-# QA Manual Testing Portfolio
+# QA Test Strategy & Process Portfolio
 
-Hello! I am an aspiring QA Manual Tester with a background in customer support and workflow validation.  
-This portfolio showcases my practical understanding of Software Testing Life Cycle (STLC), test documentation, defect reporting, and quality assurance processes for web applications.
+Senior QA Lead with 8+ years of experience in enterprise software testing, quality governance, and release validation across web and SAP-based applications.
+
+This portfolio showcases structured QA documentation including test planning approaches, functional test design, regression strategy, defect reporting, and test execution metrics used in real-world delivery
 
 ## 📂 Portfolio Contents
 
@@ -23,16 +24,15 @@ This portfolio showcases my practical understanding of Software Testing Life Cyc
 - 📊 QA Metrics Report  
   → QA_Process_Strategy/qa-metrics-report.md  
 
-## 🧪 Tools & Skills
-
-- Manual Functional Testing  
-- Test Case Design & Execution  
-- Bug Reporting & Defect Tracking  
-- Regression & Smoke Testing  
-- Test Documentation  
-- Basic GitHub Version Control  
-- SDLC & STLC Understanding  
+Core Expertise
+QA Process & Test Strategy Leadership
+Manual Functional & Regression Testing
+Test Planning & Release Readiness Validation
+Defect Lifecycle Management & Risk Assessment
+QA Team Supervision & Stakeholder Coordination
+Enterprise Testing (SAP Ariba platforms)
+Automation Collaboration (Tosca, Selenium, Worksoft)
 
 ## 🎯 Career Objective
 
-To start my career as a QA Manual Tester where I can contribute to delivering high-quality software by ensuring reliability, usability, and positive user experience.
+To support quality-driven engineering teams by strengthening testing processes, improving product reliability, and enabling stable software releases.
