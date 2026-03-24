@@ -19,12 +19,9 @@ OUT OF SCOPE:
 Manual functional testing will be performed based on defined test scenarios and user workflows.
 
 ## Test Environment
-Browser: Google Chrome  
-OS: Windows 10  
-Test URL: Sample Test Environment
-
-## Scope
-Testing login, registration, dashboard, and profile features.
+- Browser: Google Chrome
+- OS: Windows 10
+- Test URL: Sample Test Environment
 
 ## Test Types
 - Functional Testing
@@ -32,29 +29,18 @@ Testing login, registration, dashboard, and profile features.
 - UI Testing
 - Smoke Testing
 
-## Test Environment
-- Browser: Chrome
-- OS: Windows 10
-
-- ## Entry Criteria
-- Test environment is stable
-- Test data is prepared
-- Build is successfully deployed
-
-## Exit Criteria
-- All high priority test cases executed
-- Critical defects resolved or documented
-- Test summary report completed
-
 ## Entry Criteria
 - Requirements finalized
-- Build deployed to QA environment
+- QA environment ready
+- Test data prepared
+- Stable build deployed
 
 ## Exit Criteria
+- All planned test cases executed
 - No critical defects open
-- All high priority test cases passed
-## Registration Feature Test Cases
+- Test summary report completed
 
+## Registration Feature Test Cases
 | Test Case ID | Scenario | Steps | Expected Result | Priority | Type |
 |-------------|---------|------|----------------|---------|------|
 | TC006 | Valid Registration | Enter valid user details then click Register | Account created successfully | High | Functional |
