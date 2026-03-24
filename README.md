@@ -25,14 +25,14 @@ This portfolio showcases structured QA documentation including test planning app
   → QA_Process_Strategy/qa-metrics-report.md  
 
 ## Core Expertise
-QA Process & Test Strategy Leadership
-Manual Functional & Regression Testing
-Test Planning & Release Readiness Validation
-Defect Lifecycle Management & Risk Assessment
-QA Team Supervision & Stakeholder Coordination
-Enterprise Testing (SAP Ariba platforms)
-Automation Collaboration (Tosca, Selenium, Worksoft)
+- QA Process & Test Strategy Leadership
+- Manual Functional & Regression Testing
+- Test Planning & Release Readiness Validation
+- Defect Lifecycle Management & Risk Assessment
+- QA Team Supervision & Stakeholder Coordination
+- Enterprise Testing (SAP Ariba platforms)
+- Automation Collaboration (Tosca, Selenium, Worksoft)
 
-## 🎯 Career Objective
+## 🎯 Objective
 
 To support quality-driven engineering teams by strengthening testing processes, improving product reliability, and enabling stable software releases.
