@@ -24,7 +24,7 @@ This portfolio showcases structured QA documentation including test planning app
 - 📊 QA Metrics Report  
   → QA_Process_Strategy/qa-metrics-report.md  
 
-Core Expertise
+## Core Expertise
 QA Process & Test Strategy Leadership
 Manual Functional & Regression Testing
 Test Planning & Release Readiness Validation
