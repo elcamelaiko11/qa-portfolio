@@ -36,6 +36,16 @@ Testing login, registration, dashboard, and profile features.
 - Browser: Chrome
 - OS: Windows 10
 
+- ## Entry Criteria
+- Test environment is stable
+- Test data is prepared
+- Build is successfully deployed
+
+## Exit Criteria
+- All high priority test cases executed
+- Critical defects resolved or documented
+- Test summary report completed
+
 ## Entry Criteria
 - Requirements finalized
 - Build deployed to QA environment
