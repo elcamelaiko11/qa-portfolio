@@ -20,3 +20,27 @@ Testing login, registration, dashboard, and profile features.
 ## Exit Criteria
 - No critical defects open
 - All high priority test cases passed
+## Registration Feature Test Cases
+
+| Test Case ID | Scenario | Steps | Expected Result | Priority | Type |
+|-------------|---------|------|----------------|---------|------|
+| TC006 | Valid Registration | Enter valid user details then click Register | Account created successfully | High | Functional |
+| TC007 | Existing Email | Register using already registered email | Error message should appear | High | Negative |
+| TC008 | Weak Password | Enter password below required criteria | Validation message should appear | Medium | Validation |
+| TC009 | Empty Required Fields | Click register without filling form | Required field errors displayed | Medium | Validation |
+
+## Dashboard Feature Test Cases
+
+| Test Case ID | Scenario | Steps | Expected Result | Priority | Type |
+|-------------|---------|------|----------------|---------|------|
+| TC010 | Dashboard Load | Login and navigate to dashboard | Dashboard loads successfully | High | Functional |
+| TC011 | Widget Display | Check dashboard widgets visibility | All widgets displayed correctly | Medium | UI |
+| TC012 | Broken Navigation Link | Click dashboard menu links | Links redirect to correct pages | High | Functional |
+
+## Profile Management Test Cases
+
+| Test Case ID | Scenario | Steps | Expected Result | Priority | Type |
+|-------------|---------|------|----------------|---------|------|
+| TC013 | Update Profile Info | Edit profile details and save | Profile updated successfully | High | Functional |
+| TC014 | Upload Invalid Image | Upload unsupported file format | Error message displayed | Medium | Validation |
+| TC015 | Cancel Profile Update | Edit then click cancel | No changes should be saved | Low | Usability |
