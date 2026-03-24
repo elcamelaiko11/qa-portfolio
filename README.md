@@ -1,8 +1,7 @@
 # QA Manual Testing Portfolio
 
-Hello! I am an aspiring QA Manual Tester with experience in customer support and workflow validation.
-
-This portfolio demonstrates my understanding of the Software Testing Life Cycle (STLC), test documentation, bug reporting, and QA processes.
+Hello! I am an aspiring QA Manual Tester with a background in customer support and workflow validation.  
+This portfolio showcases my practical understanding of Software Testing Life Cycle (STLC), test documentation, defect reporting, and quality assurance processes for web applications.
 
 ## 📂 Portfolio Contents
 
@@ -22,18 +21,18 @@ This portfolio demonstrates my understanding of the Software Testing Life Cycle 
   → QA_Process_Strategy/bug-report.md  
 
 - 📊 QA Metrics Report  
-  → QA_Process_Strategy/qa-metrics-report.md
-  
+  → QA_Process_Strategy/qa-metrics-report.md  
+
 ## 🧪 Tools & Skills
 
-- Manual Testing
-- Test Case Design
-- Bug Documentation
-- Regression Testing
-- Smoke Testing
-- Functional Testing
-- Basic GitHub Version Control
+- Manual Functional Testing  
+- Test Case Design & Execution  
+- Bug Reporting & Defect Tracking  
+- Regression & Smoke Testing  
+- Test Documentation  
+- Basic GitHub Version Control  
+- SDLC & STLC Understanding  
 
-## 🎯 Goal
+## 🎯 Career Objective
 
-To contribute to a quality-driven team by ensuring software reliability and excellent user experience.
+To start my career as a QA Manual Tester where I can contribute to delivering high-quality software by ensuring reliability, usability, and positive user experience.
