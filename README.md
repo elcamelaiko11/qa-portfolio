@@ -4,15 +4,26 @@ Hello! I am an aspiring QA Manual Tester with experience in customer support and
 
 This portfolio demonstrates my understanding of the Software Testing Life Cycle (STLC), test documentation, bug reporting, and QA processes.
 
-## 📌 Included in this Portfolio
+## 📂 Portfolio Contents
 
-✅ QA Process & Test Strategy  
-✅ Sample Test Plan  
-✅ Functional Test Cases  
-✅ Regression Test Suite  
-✅ Bug Report Sample  
-✅ QA Metrics Report  
+- 📘 QA Process & Strategy  
+  → QA_Process_Strategy/README.md  
 
+- 🧪 Sample Test Plan  
+  → QA_Process_Strategy/test-plan.md  
+
+- ✅ Login Functional Test Cases  
+  → QA_Process_Strategy/login-test-cases.md  
+
+- 🔁 Regression Test Suite  
+  → QA_Process_Strategy/regression-suite.md  
+
+- 🐞 Bug Report Sample  
+  → QA_Process_Strategy/bug-report.md  
+
+- 📊 QA Metrics Report  
+  → QA_Process_Strategy/qa-metrics-report.md
+  
 ## 🧪 Tools & Skills
 
 - Manual Testing
