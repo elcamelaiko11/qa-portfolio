@@ -10,12 +10,12 @@ Testing login, registration, dashboard, and profile features.
 - Smoke Testing
 
 ## Test Environment
-- Chrome / Edge browsers
-- Windows 10
+- Browser: Chrome
+- OS: Windows 10
 
 ## Entry Criteria
 - Requirements finalized
-- Build deployed in test environment
+- Build deployed to QA environment
 
 ## Exit Criteria
 - No critical defects open
